@@ -17,3 +17,4 @@ The deployed page on Github:
 https://ghazaleh-j.github.io/Homework-6---Server-Side-APIs/
 
 Site Preview:
+![Weather Dashboard](https://user-images.githubusercontent.com/100667382/168383050-98602cad-5658-4b29-87dd-4e0f80e64bdb.png)
